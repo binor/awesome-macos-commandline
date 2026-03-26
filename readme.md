@@ -40,7 +40,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Misc academic tools and utilities.*
 
-- [jrnl](http://jrnl.sh/advanced.html) - Collect your thoughts and notes.
+- [jrnl](https://jrnl.sh/) - Collect your thoughts and notes.
 - [Insect](https://github.com/sharkdp/insect) - High precision scientific calculator.
 
 ### Audio
